@@ -4,10 +4,10 @@ var channel_1_false = 0;
 var temperature_point_1 = 25;
 var hvac_timer_timeout_ms = 20 * 1000;
 var hvac_timer_id = null;
-var control1 = ['wb-gpio']['EXT1_R3A1'];
-var a1 = ['wb-gpio']['A1_IN'];
-var a2 = ['wb-gpio']['A2_IN'];
-var temperature = ['wb-w1']['28-00000d6b460c'];
+// var control1 = ['wb-gpio']['EXT1_R3A1'];
+// var a1 = ['wb-gpio']['A1_IN'];
+// var a2 = ['wb-gpio']['A2_IN'];
+// var temperature = ['wb-w1']['28-00000d6b460c'];
 
 defineVirtualDevice('HVAC_test', {
   title: 'HVAC test', // Название устройства

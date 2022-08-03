@@ -1,2 +1,3 @@
 # hvac_test
-test task for wb-rules
+
+Решение тестового задания.
